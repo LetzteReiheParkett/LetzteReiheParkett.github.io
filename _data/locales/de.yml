@@ -1,0 +1,113 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Post
+  category: Kategorie
+  # Category
+  tag: Tag
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Startseite
+  # Home
+  categories: Kategorien
+  # Categories
+  tags: Tags
+  archives: Archiv
+  # Archives
+  about: Impressum
+
+# the text displayed in the search bar & search results
+search:
+  hint: Suche
+  # search
+  cancel: abbrechen
+  # Cancel
+  no_results: Uups! Keine Ergebnisse gefunden.
+  # Oops! No results found.
+
+panel:
+  lastmod: Kürzlich geupdated
+  # Recently Updated
+  trending_tags: Beliebte Tags
+  # Trending Tags
+  toc: Inhalte
+  # Contents
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Dieser Post ist lizensiert unter :LICENSE_NAME vom Autor.
+    # This post is licensed under :LICENSE_NAME by the author.
+    name: CC BY-NC-SA 4.0
+    link: http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+  # Displayed in the footer
+  brief: Einige Rechte vorbehalten.
+  # Some rights reserved.
+  verbose: >-
+    Wenn nicht anderweitig gekennzeichnet, sind die Posts auf dieser Seite unter der 
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) Lizenz vom Autor lizensiert.
+#    Except where otherwise noted, the blog posts on this site are licensed
+#    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+
+meta: Powered by :PLATFORM with :THEME theme.
+
+not_found:
+  statment: Entschuldigung, wir haben die URL verschoben oder der Inhalt exitstiert nicht mehr.
+  # Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+
+notification:
+  update_found: Eine neue Version dieses Posts ist verfügbar
+  # A new version of content is available.
+  update: Update
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Von
+  # By
+  posted: Posted
+  updated: Updated
+  words: Wörer
+  # words
+  pageview_measure: views
+  read_time:
+    unit: min
+    prompt: Lesezeit
+    # read
+  relate_posts: Auch interessant
+  # Further Reading
+  share: Teilen
+  # Share
+  button:
+    next: Neuer
+    # Newer
+    previous: Älter
+    # Older
+    copy_code:
+      succeed: Kopiert!
+      # Copied!
+    share_link:
+      title: Link kopieren
+      # Copy link
+      succeed: Link erfolgreich kopiert!
+      # Link copied successfully!
+  # pinned prompt of posts list on homepage
+  pin_prompt: Angeheftet
+
+# categories page
+categories:
+  category_measure:
+    singular: Kategorie
+    # category
+    plural: Kategorien
+    # categories
+  post_measure:
+    singular: Post
+    # post
+    plural: Posts
+    # posts
