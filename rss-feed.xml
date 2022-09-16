@@ -13,6 +13,7 @@
 		<link>https://letztereiheparkett.github.io</link>
 		<language>de-DE</language>
 		<description>Der Podcast zu Filmen und mehr.</description>
+		<itunes:subtitle>Der Podcast zu Filmen und mehr.</itunes:subtitle>
 		<itunes:summary>
 		Der Podcast zu Filmen und mehr.
 		</itunes:summary>
@@ -31,7 +32,7 @@
 		
 		<item>
 			<title>Folge 0: Vorgespräch</title>
-			<description>Dominik und Yves treffen sich zum großen Vorgespräch und bereden alles wichtige zum kommenden Podcast.</description>
+			<description>In ihrem ersten mikrofonalen Aufeinandertreffen wollen Dominik und Yves wichtige und grundsätzliche Dinge für ihren anstehenden Podcast besprechen. Nach holprigem Start, geraten die beiden dann doch ins "Schwätzen" und merken dabei, dass sie noch weit am Anfang mit ihrem Vorhaben stehen.</description>
 			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3" type="audio/mpeg" length="46323596" />
 			<pubDate>Fri, 16 Sep 2022 00:01:00 +0100</pubDate>
 			<itunes:author>Dominik Schott und Yves Mertig</itunes:author>
