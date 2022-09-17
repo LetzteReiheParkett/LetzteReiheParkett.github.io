@@ -52,10 +52,11 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/LRParkett      # change to your twitter homepage
     - https://github.com/letztereiheparkett       # change to your github homepage
+    - https://www.instagram.com/letztereiheparkett
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    - https://www.instagram.com/letztereiheparkett
+    
 
 google_site_verification:               # fill in to your verification string
 

@@ -3,7 +3,11 @@
 -
   type: github
   icon: 'fab fa-github'
--
+- 
+  type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/letztereiheparkett'
+-  
   type: twitter
   icon: 'fab fa-twitter'
 -
