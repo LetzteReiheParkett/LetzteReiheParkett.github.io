@@ -22,7 +22,7 @@ timezone: Europe/Berlin
 # ↓ --------------------------
 
 title: Letzte Reihe Parkett
-#<img src="/assets/img/title/title.png" alt="The flower">
+#<img src="/assets/img/title/title.png" alt="title">
                        # the main title
                         # href="{{ '/' | relative_url }}">{{ site.title }}
 

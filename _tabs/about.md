@@ -1,7 +1,7 @@
 ---
 title: Impressum
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 ### Anschrift:
@@ -13,7 +13,5 @@ Emsdettener Straße 10\\
 
 ### Mitwirkende
 
-
-
-### Kontakt
-
+Dominik Schott aka ScoddiP\\
+Yves Mertig
