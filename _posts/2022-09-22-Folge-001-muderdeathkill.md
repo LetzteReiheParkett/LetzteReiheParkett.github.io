@@ -1,10 +1,10 @@
 ---
 title: Folge 1 - Murder Death Kill
 author: letztereiheparkett
-date: 2022-09-21 23:01:00 +0100
+date: 2022-09-22 23:01:00 +0100
 categories: [Podcast]
 tags: [podcast,sylvester stallone,wesley snipes,sandra bullock,action,science fiction,scifi,pinocchio,synchronsprecher,torsten michaelis]
-html: https://archive.org/download/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3
+html: https://archive.org/download/lrparkett-podcast-folge-01-murder-death-kill/LRParkett%20Podcast%20Folge%2001%20-%20Murder%20Death%20Kill.mp3
 ---
 
 ## Murder Death Kill
@@ -22,5 +22,5 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 {% include plyr.html audio=page.html %}
 
  <audio controls>
-  <source src="https://archive.org/download/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3" type="audio/mpeg">
+  <source src="https://archive.org/download/lrparkett-podcast-folge-01-murder-death-kill/LRParkett%20Podcast%20Folge%2001%20-%20Murder%20Death%20Kill.mp3" type="audio/mpeg">
 </audio> 
