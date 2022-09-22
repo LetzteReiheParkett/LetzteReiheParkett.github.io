@@ -18,3 +18,5 @@ Nach holprigem Start, geraten die beiden dann doch ins "Schwätzen" und merken d
  <audio controls>
   <source src="https://archive.org/download/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3" type="audio/mpeg">
 </audio> 
+
+<iframe src="https://archive.org/embed/lrparkett-podcast-folge-0-vorgesprach" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
