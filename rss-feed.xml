@@ -13,7 +13,7 @@
 		<link>https://letztereiheparkett.github.io</link>
 		<language>de-DE</language>
 		<description>Wir sind Dominik und Yves. Wir kennen uns von der Arbeit im Kino, lieben beide Filme und unterhalten uns sehr gerne darüber. Diesen Podcast machen wir, um uns besser kennenzulernen, Freunde zu werden und unsere Liebe zu Filmen miteinander und mit euch zu teilen.</description>
-		<itunes:subtitle>Wir sind Dominik und Yves. Wir kennen uns von der Arbeit im Kino, lieben beide Filme und unterhalten uns sehr gerne darüber. Diesen Podcast machen wir, um uns besser kennenzulernen, Freunde zu werden und unsere Liebe zu Filmen miteinander und mit euch zu teilen.</itunes:subtitle>
+		<itunes:subtitle>Der Podcast zu Filmen und mehr.</itunes:subtitle>
 		<itunes:summary>
 		Der Podcast zu Filmen und mehr.
 		</itunes:summary>
@@ -26,8 +26,8 @@
 		<googleplay:owner>letztereiheparkett@posteo.de</googleplay:owner>
 		<googleplay:author>letztereiheparkett</googleplay:author>
 		<spotify:countryOfOrigin>de</spotify:countryOfOrigin>
-		<itunes:image href="https://github.com/LetzteReiheParkett/letztereiheparkett/raw/main/letztereiheparkett.png" />
-		<googleplay:image href="https://github.com/LetzteReiheParkett/letztereiheparkett/raw/main/letztereiheparkett.png" />
+		<itunes:image href="https://github.com/LetzteReiheParkett/letztereiheparkett.github.io/raw/main/letztereiheparkett.png" />
+		<googleplay:image href="https://github.com/LetzteReiheParkett/letztereiheparkett.github.io/raw/main/letztereiheparkett.png" />
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
