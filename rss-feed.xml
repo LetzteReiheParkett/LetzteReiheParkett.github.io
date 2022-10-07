@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss 
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:spotify="http://www.spotify.com/ns/rss"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:media="http://www.rssboard.org/media-rss"
+	version="2.0">
+	
+	<channel>
+		<title>Letzte Reihe Parkett</title>
+		<link>https://letztereiheparkett.github.io</link>
+		<language>de-DE</language>
+		<description>Wir sind Dominik und Yves. Wir kennen uns von der Arbeit im Kino, lieben beide Filme und unterhalten uns sehr gerne darüber. Diesen Podcast machen wir, um uns besser kennenzulernen, Freunde zu werden und unsere Liebe zu Filmen miteinander und mit euch zu teilen.</description>
+		<itunes:subtitle>Wir sind Dominik und Yves. Wir kennen uns von der Arbeit im Kino, lieben beide Filme und unterhalten uns sehr gerne darüber. Diesen Podcast machen wir, um uns besser kennenzulernen, Freunde zu werden und unsere Liebe zu Filmen miteinander und mit euch zu teilen.</itunes:subtitle>
+		<itunes:summary>
+		Der Podcast zu Filmen und mehr.
+		</itunes:summary>
+		<itunes:keywords>filme,kino,synchronsprecher,leben</itunes:keywords>
+		<itunes:author>Dominik Schott und Yves Mertig</itunes:author>
+		<itunes:owner>
+			<itunes:name>letztereiheparkett</itunes:name>
+			<itunes:email>letztereiheparkett@posteo.de</itunes:email>
+		</itunes:owner>
+		<googleplay:owner>letztereiheparkett@posteo.de</googleplay:owner>
+		<googleplay:author>letztereiheparkett</googleplay:author>
+		<spotify:countryOfOrigin>de</spotify:countryOfOrigin>
+		<itunes:image href="https://github.com/LetzteReiheParkett/letztereiheparkett/raw/main/letztereiheparkett.png" />
+		<googleplay:image href="https://github.com/LetzteReiheParkett/letztereiheparkett/raw/main/letztereiheparkett.png" />
+		<itunes:explicit>yes</itunes:explicit>
+		
+		<item>
+			<title>Folge 0: Vorgespräch</title>
+			<description>In ihrem ersten mikrofonalen Aufeinandertreffen wollen Dominik und Yves wichtige und grundsätzliche Dinge für ihren anstehenden Podcast besprechen. Nach holprigem Start, geraten die beiden dann doch ins "Schwätzen" und merken dabei, dass sie noch weit am Anfang mit ihrem Vorhaben stehen.</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3" type="audio/mpeg" length="46323596" />
+			<pubDate>Fri, 16 Sep 2022 00:01:00 +0100</pubDate>
+			<itunes:author>Dominik Schott und Yves Mertig</itunes:author>
+			<itunes:duration>00:19:18</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3
+			</guid>
+		</item>
+	
+		<item>
+			<title>Folge 01: Murder Death Kill</title>
+			<description>Hallo und herzlich willkommen liebe Zuhörerinnen und Zuhörer zum Podcast "Letzte Reihe Parkett".<br>
+			In ihrer allerersten Folge konfrontieren sich Dominik und Yves mit so einfachen, wie auch komplexen, ausgewählten Lebensfragen und treten damit in ihre vertiefende Kennenlernphase ein, thematisieren kurz die neue Pinocchio-Verfilmung sowie die faszinierende stimmliche Bandbreite von Synchronsprechern und widmen sich dann detailliert ihrem Film der Woche: "Demolition Man" von 1993.<br>
+			Vorhang auf für Sylvester Stallone gegen Wesley Snipes in einer glatt polierten Dystopie, in der jegliche Extreme extrem unterdrückt werden.<br>
+			Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück und genießen Sie die "Letzte Reihe Parkett".</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-01-murder-death-kill/LRParkett%20Podcast%20Folge%2001%20-%20Murder%20Death%20Kill.mp3" type="audio/mpeg" length="267075002" />
+			<pubDate>Fri, 23 Sep 2022 00:01:00 +0100</pubDate>
+			<itunes:author>Dominik Schott und Yves Mertig</itunes:author>
+			<itunes:duration>01:51:16</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-01-murder-death-kill/LRParkett%20Podcast%20Folge%2001%20-%20Murder%20Death%20Kill.mp3
+			</guid>
+		</item>
+
+		<item>
+			<title>Folge 02: Full House</title>
+			<description>Hallo und herzlich willkommen liebe Zuhörerinnen und Zuhörer zum Podcast "Letzte Reihe Parkett".<br>
+			In ihrer neuen Folge konfrontieren sich Dominik und Yves wieder mit so einfachen wie auch komplexen ausgewählten Lebensfragen und setzen ihren Weg zur Freundschaft damit fort, thematisieren kurz die zuletzt gesehenen Filme sowie die faszinierende stimmliche Bandbreite von Synchronsprechern und widmen sich detailliert ihrem Film der Woche: "mother!" von 2017.<br>
+			Vorhang auf für Jennifer Lawrence und Javier Bardem als verheiratetes Ehepaar ohne Eheglück, einem Haus voll Fremder und der Erkenntnis, dass die Menschheit zum Untergang verdammt ist, immer und immer wieder.<br>
+			Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück und genießen Sie die "Letzte Reihe Parkett".</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-02-full-house-1.2/LRParkett%20Podcast%20Folge%2002%20-%20Full%20House%201.2.mp3" type="audio/mpeg" length="266913036" />
+			<pubDate>Fri, 7 Oct 2022 00:01:00 +0100</pubDate>
+			<itunes:author>Dominik Schott und Yves Mertig</itunes:author>
+			<itunes:duration>01:51:12</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-02-full-house-1.2/LRParkett%20Podcast%20Folge%2002%20-%20Full%20House%201.2.mp3			
+			</guid>
+		</item>
+
+	</channel>
+</rss>
