@@ -1,7 +1,7 @@
 ---
 title: Folge 2 - Full House
 author: letztereiheparkett
-date: 2022-09-22 23:01:00 +0100
+date: 2022-10-07 03:43:00 +0100
 categories: [Podcast]
 tags: [podcast,jennifer lawrence,javier bardem,ed harris,michelle pfeiffer, horror,psycho,synchronsprecher]
 html: https://archive.org/download/lrp-podcast-folge-02-full-house/LRP%20Podcast%20Folge%2002%20-%20Full%20House.mp3
