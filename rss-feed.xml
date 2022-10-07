@@ -26,8 +26,8 @@
 		<googleplay:owner>letztereiheparkett@posteo.de</googleplay:owner>
 		<googleplay:author>letztereiheparkett</googleplay:author>
 		<spotify:countryOfOrigin>de</spotify:countryOfOrigin>
-		<itunes:image href="https://github.com/LetzteReiheParkett/letztereiheparkett.github.io/raw/main/letztereiheparkett.png" />
-		<googleplay:image href="https://github.com/LetzteReiheParkett/letztereiheparkett.github.io/raw/main/letztereiheparkett.png" />
+		<itunes:image href="https://raw.githubusercontent.com/LetzteReiheParkett/letztereiheparkett.github.io/main/letztereiheparkett.png" />
+		<googleplay:image href="https://raw.githubusercontent.com/LetzteReiheParkett/letztereiheparkett.github.io/main/letztereiheparkett.png" />
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
