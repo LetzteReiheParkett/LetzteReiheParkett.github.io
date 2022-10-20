@@ -53,7 +53,7 @@
 			<pubDate>Fri, 23 Sep 2022 00:01:00 +0100</pubDate>
 			<itunes:author>Dominik Schott und Yves Mertig</itunes:author>
 			<itunes:duration>01:51:16</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
+			<itunes:explicit>yes</itunes:explicit>
 			<guid isPermaLink="false">
 			https://archive.org/download/lrparkett-podcast-folge-01-murder-death-kill/LRParkett%20Podcast%20Folge%2001%20-%20Murder%20Death%20Kill.mp3
 			</guid>
@@ -69,9 +69,25 @@
 			<pubDate>Fri, 7 Oct 2022 00:01:00 +0100</pubDate>
 			<itunes:author>Dominik Schott und Yves Mertig</itunes:author>
 			<itunes:duration>01:51:12</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
+			<itunes:explicit>yes</itunes:explicit>
 			<guid isPermaLink="false">
 			https://archive.org/download/lrp-podcast-folge-02-full-house/LRP%20Podcast%20Folge%2002%20-%20Full%20House.mp3
+			</guid>
+		</item>
+
+		<item>
+			<title>Folge 03: Neues Fleisch</title>
+			<description>Hallo und herzlich willkommen liebe Zuhörerinnen und Zuhörer zum Podcast "Letzte Reihe Parkett".
+			In ihrer dritten Folgen kehren Dominik und Yves mit einem leicht veränderten Konzept zurück. Sie besprechen ihre zuletzt gesehenen Filme, stellen ihre neue Rubrik "Nice oder Scheiß" vor und besprechen dann ihren Film der Woche: "Videodrome" von 1983, sowie die darin synchronisierenden SprecherInnen der deutschen Vertonung.
+			Vorhang auf für James Woods, in einer Welt, in der Fernsehbilder die Menschen kontrollieren und der Kampf gegen die Trugbilder aufkommender Visionen zum Kampf ums Überleben wird.
+			Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück und genießen Sie die "Letzte Reihe Parkett".</description>
+			<enclosure url="https://archive.org/download/lrp-folge-03-neues-fleisch/LRP%20Folge%2003%20-%20Neues%20Fleisch.mp3" type="audio/mpeg" length="188207144" />
+			<pubDate>Fri, 21 Oct 2022 00:01:00 +0100</pubDate>
+			<itunes:author>Dominik Schott und Yves Mertig</itunes:author>
+			<itunes:duration>01:18:25</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrp-folge-03-neues-fleisch/LRP%20Folge%2003%20-%20Neues%20Fleisch.mp3
 			</guid>
 		</item>
 
