@@ -1,7 +1,7 @@
 ---
 title: Folge 3 - Neues Fleisch
 author: letztereiheparkett
-date: 2022-10-21 00:01:00 +0100
+date: 2022-10-21 00:12:00 +0100
 categories: [Podcast]
 tags: [podcast,videodrome,david cronenberg,james woods,mathias grimm,matthias grimm,manfred lehmann,frank glaubrecht,katrin miclette,existenz,synchronsprecher]
 html: https://archive.org/download/lrp-folge-03-neues-fleisch/LRP%20Folge%2003%20-%20Neues%20Fleisch.mp3
