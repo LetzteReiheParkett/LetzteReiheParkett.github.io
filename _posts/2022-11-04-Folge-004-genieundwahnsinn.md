@@ -1,7 +1,7 @@
 ---
 title: Folge 4 - Genie und Wahnsinn
 author: letztereiheparkett
-date: 2022-11-04 00:01:00 +0100
+date: 2022-11-04 00:12:00 +0100
 categories: [Podcast]
 tags: [podcast,nachtmahr,mondmann,man on the moon,akiz,andy kaufman,jim carrey,miloš forman,stefan fredrich,daniel schlauch,synchronsprecher]
 html: https://archive.org/download/lrparkett-podcast-folge-4-genie-und-wahnsinn/LRParkett%20Podcast%20Folge%204%20-%20Genie%20und%20Wahnsinn.mp3
