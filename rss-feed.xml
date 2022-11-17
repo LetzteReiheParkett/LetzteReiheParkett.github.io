@@ -110,5 +110,24 @@
 			</guid>
 		</item>
 
+		<item>
+			<title>Folge 05: Ein König und ein Mord</title>
+			<description>Hallo und herzlich willkommen liebe Zuhörerinnen und Zuhörer zum Podcast "Letzte Reihe Parkett".
+			In ihrer neuen Folgen besprechen Dominik und Yves kurz ihre zuletzt gesehenen Filme, tauchen wie üblich in die Deutsche Synchrondatei ab und gehen auf ihre gegenseitig aufgetragenen Hausaufgaben ein.
+			Sie besprechen Details der Filme und schließen die Folge mit ihrer Rubrik "Nice oder Scheiß" treffend ab.
+			Vorhang auf für "The Polka King", einer biografischen Komödie über einen betrügerischen Polka-Star
+			SOWIE
+			"Die Schwester des Bösen", Regisseur Brian De Palma auf den Spuren seines großen Idoles Alfred Hitchcock, mit mordenden Zwillingsschwestern.
+			Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück und genießen Sie die "Letzte Reihe Parkett".</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-5-ein-konig-und-ein-mord/LRParkett%20Podcast%20Folge%205%20-%20Ein%20K%C3%B6nig%20und%20ein%20Mord.mp3" type="audio/mpeg" length="181476990" />
+			<pubDate>Fri, 18 Nov 2022 00:01:00 +0100</pubDate>
+			<itunes:author>Dominik Schott und Yves Mertig</itunes:author>
+			<itunes:duration>01:15:36</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-5-ein-konig-und-ein-mord/LRParkett%20Podcast%20Folge%205%20-%20Ein%20K%C3%B6nig%20und%20ein%20Mord.mp3
+			</guid>
+		</item>
+
 	</channel>
 </rss>
