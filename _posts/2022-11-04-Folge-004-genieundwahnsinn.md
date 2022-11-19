@@ -28,47 +28,35 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 
 ## Erwähnte Filme:
 
-Crimes of the Future
-Die Klapperschlange
-Im Westen Nichts Neues (2022)
+Crimes of the Future <br>
+Die Klapperschlange <br>
+Im Westen Nichts Neues (2022) <br>
 
-.
-.
-.
-Hauptfilme:
+### Hauptfilme:
 
-Der Nachtmahr
+Der Nachtmahr <br>
 Der Mondmann
 
-.
-.
-.
-Erwähnte Synchronsprecher:
+### Erwähnte Synchronsprecher:
 
-Daniel Schlauch - Monkey D. Ruffy und Zac Efron
+Daniel Schlauch - Monkey D. Ruffy und Zac Efron <br>
 Stefan Fredrich - Jim Carrey, Jar Jar Bings, Vince Vaughn, John Turturro
 
-.
-.
-.
-NICE / SCHEIß (Jim Carrey Edition) - Dominik
+### NICE / SCHEIß (Jim Carrey Edition) - Dominik
 
-Der Grinch - leicht SCHEIß
-Bruce Allmächtig - NICE
-Der Ja-Sager - NICE SCHEIß
-Die Truman Show - NICE SCHEIß
-Ace Ventura - NICE
-Dumm und Dümmer - leicht NICE
-Mr. Poppers Pinguine - SCHEIß
-Sonic The Hedgehog - SCHEIß
-Number 23 - NICE SCHEIß
-Cable Guy - NICE
-Vergiss Mein Nicht - NICE SCHEIß
+Der Grinch - leicht SCHEIß <br>
+Bruce Allmächtig - NICE <br>
+Der Ja-Sager - NICE SCHEIß <br>
+Die Truman Show - NICE SCHEIß <br>
+Ace Ventura - NICE <br>
+Dumm und Dümmer - leicht NICE <br>
+Mr. Poppers Pinguine - SCHEIß <br>
+Sonic The Hedgehog - SCHEIß <br>
+Number 23 - NICE SCHEIß <br>
+Cable Guy - NICE <br>
+Vergiss Mein Nicht - NICE SCHEIß <br>
 
-.
-.
-.
-Hausaufgaben bis nächste Folge:
+### Hausaufgaben bis nächste Folge:
 
-Der Polka King (auf Netflix)
+Der Polka King (auf Netflix) <br>
 Die Schwester des Bösen (auf MUBI)
