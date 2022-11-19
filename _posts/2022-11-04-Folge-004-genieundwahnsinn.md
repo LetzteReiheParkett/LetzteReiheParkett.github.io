@@ -25,3 +25,50 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 
 
 <img src="/assets/img/postings/posting004.png" alt="Podcast Cover">
+
+## Erwähnte Filme:
+
+Crimes of the Future
+Die Klapperschlange
+Im Westen Nichts Neues (2022)
+
+.
+.
+.
+Hauptfilme:
+
+Der Nachtmahr
+Der Mondmann
+
+.
+.
+.
+Erwähnte Synchronsprecher:
+
+Daniel Schlauch - Monkey D. Ruffy und Zac Efron
+Stefan Fredrich - Jim Carrey, Jar Jar Bings, Vince Vaughn, John Turturro
+
+.
+.
+.
+NICE / SCHEIß (Jim Carrey Edition) - Dominik
+
+Der Grinch - leicht SCHEIß
+Bruce Allmächtig - NICE
+Der Ja-Sager - NICE SCHEIß
+Die Truman Show - NICE SCHEIß
+Ace Ventura - NICE
+Dumm und Dümmer - leicht NICE
+Mr. Poppers Pinguine - SCHEIß
+Sonic The Hedgehog - SCHEIß
+Number 23 - NICE SCHEIß
+Cable Guy - NICE
+Vergiss Mein Nicht - NICE SCHEIß
+
+.
+.
+.
+Hausaufgaben bis nächste Folge:
+
+Der Polka King (auf Netflix)
+Die Schwester des Bösen (auf MUBI)
