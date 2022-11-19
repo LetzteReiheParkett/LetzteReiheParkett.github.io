@@ -23,3 +23,5 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
  <audio controls>
   <source src="https://archive.org/download/lrp-podcast-folge-02-full-house/LRP%20Podcast%20Folge%2002%20-%20Full%20House.mp3" type="audio/mpeg">
 </audio> 
+
+<img src="/assets/img/postings/posting002.png" alt="Podcast Cover">

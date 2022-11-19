@@ -22,3 +22,5 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
  <audio controls>
   <source src="https://archive.org/download/lrp-folge-03-neues-fleisch/LRP%20Folge%2003%20-%20Neues%20Fleisch.mp3" type="audio/mpeg">
 </audio> 
+
+<img src="/assets/img/postings/posting003.png" alt="Podcast Cover">

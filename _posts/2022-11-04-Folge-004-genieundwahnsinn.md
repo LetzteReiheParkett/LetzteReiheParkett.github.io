@@ -25,3 +25,5 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
  <audio controls>
   <source src="https://archive.org/download/lrparkett-podcast-folge-4-genie-und-wahnsinn/LRParkett%20Podcast%20Folge%204%20-%20Genie%20und%20Wahnsinn.mp3" type="audio/mpeg">
 </audio> 
+
+<img src="/assets/img/postings/posting004.png" alt="Podcast Cover">
