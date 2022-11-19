@@ -22,3 +22,58 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 
 
 <img src="/assets/img/postings/posting003.png" alt="Podcast Cover">
+
+### Erwähnte Filme:
+
+The Woman King <br>
+Speak No Evil <br>
+Die wundersame Welt des Louis Wain <br>
+Bodies Bodies Bodies <br>
+The King of Staten Island <br>
+Der Adventskalender <br>
+Dr. Schiwago <br>
+Nosferatu (1979) <br>
+Minions 2 <br>
+The Invitation (2022) <br>
+Orphan: First Kill <br>
+Hatching <br>
+Mr. Harrigan’s Phone <br>
+The Black Phone <br>
+Tausend Zeilen <br>
+Rabiye Kurnaz gegen George W. Bush <br>
+Smile <br>
+Der Exorzist <br>
+You Won’t Be Alone <br>
+Aufbruch zum Mond <br>
+Mission: Impossible 6 <br>
+Chase (Last Seen Alive) <br>
+Don´t Worry Darling <br>
+eXistenZ <br>
+Videodrome <br>
+Radio Rock Revolution <br>
+Der Schakal (1997) <br>
+
+### Erwähnte Synchronsprecher:
+
+Matthias Grimm - viele verschiedene kleine Rollen z.B Batman Zeichentrickserie aus den 90ern <br>
+Manfred Lehmann - u.a. Bruce Willis, Gerald Depardieu, Dolph Lundgren, Kurt Russel <br>
+Frank Glaubrecht - u.a. Pierce Brosnan, Kevin Costner, Al Pacino, Bill Nighy <br>
+Katrin Miclette - kleinere Produktionen, keine Feste Schaupielerstimme <br>
+
+### NICE / SCHEIß (HorrorEdition) - Yves
+
+Smile - NICE <br>
+Scream Reihe - OK NICE <br>
+Halloween Reihe - Teil 1 sehr NICE & die neuen fast schon SCHEIß <br>
+Freitag der 13 Reihe - nicht gesehen <br>
+Nightmare on Elmstreet Reihe - nicht gesehen <br>
+Hellraiser Reihe - Teil 1 & 2 MEGA NICE <br>
+Sinister - nicht gesehen <br>
+Braindead - nicht gesehen <br>
+Der Exircist - GEILER NICER SCHEIß <br>
+
+### Hausaufgabe für nächste Folge:
+
+Der Nachtmahr <br>
+
+Der Mondmann (Jim Carrey) + Doku auf Netflix

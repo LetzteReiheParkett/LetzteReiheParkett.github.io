@@ -23,3 +23,27 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 
 
 <img src="/assets/img/postings/posting002.png" alt="Podcast Cover">
+
+
+### Im Folgenden sind die (meisten) erwähnten Filme aufgelistet:
+
+No Country For Old Men <br>
+After Forever (After Ever Happy) <br>
+Dangerous Minds <br>
+Ex_Machina <br>
+Frank Of Ireland <br>
+I Used To Be Famous <br>
+Logan Lucky <br>
+Marcel The Shell <br>
+The Retailiators <br>
+Fluch der Karibik 5 <br>
+Requiem For A Dream <br>
+Rimini (2022) <br>
+The Polka King <br>
+The Wrestler <br>
+Pi - System im Chaos <br>
+The Whale 
+
+### Synchronsprecher:
+
+Dietmar Wunder (Adam Sandler, Daniel Craig,  Cuba Gooding Jr., Don Cheadle, Sam Rockwell und Rob Lowe, sowie gelegentlich Willie Garson)

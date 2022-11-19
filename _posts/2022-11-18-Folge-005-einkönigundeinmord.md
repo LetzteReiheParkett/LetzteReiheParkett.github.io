@@ -25,3 +25,48 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 
 
 <img src="/assets/img/postings/posting005.png" alt="Podcast Cover">
+
+### Erwähnte Filme:
+
+Halloween Ends <br>
+Rheingold <br>
+Everything Everywhere All At Once <br>
+Rosemary´s Baby <br>
+Mrs. Harris und ein Kleid von Dior <br>
+Black Adam <br>
+Der Nachname <br>
+Weird: The Al Yankowic Story <br>
+
+### Erwähnte Serien:
+
+Inside Man (Miniserie auf Netflix) <br>
+The Taste (Kochshow)
+
+### Hauptfilme:
+
+Der Polkakönig <br>
+Die Schwester des Bösen
+
+### Erwähnter Synchronsprecher:
+
+Tobias Meister - Brat Pitt, Kiefer Sutherland, Robert Downey Jr., Tim Robbins, Sean Penn, Jack Black, Ice Cube und Forest Whitaker
+
+### NICE / SCHEIß (Jack Black Edition) - Yves
+
+Schwer Verliebt (2001) – nicht gesehen <br>
+School of Rock (2003) – NICER SCHEIß <br>
+Neid (2004) – nicht gesehen <br>
+King Kong (2005) – OK NICE <br>
+Tenacious D (2006) – nicht gesehen <br>
+Nacho Liebre (2006) – nicht gesehen <br>
+Liebe braucht keine Ferien (2006) – NICER SCHEIß x2 <br>
+Abgedreht (2008) – RICHTIG NICE <br>
+Year One (2009) – SCHEIß <br>
+Bernie (2011) – nicht gesehen <br>
+Gänsehaut (2015) - uninteressant <br>
+Jumanji (2017) – ganz OK <br>
+
+### Hausaufgaben:
+
+Neid (2004) <br>
+Hexenkessel (1973)
