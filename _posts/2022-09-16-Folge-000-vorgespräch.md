@@ -14,15 +14,15 @@ Nach holprigem Start, geraten die beiden dann doch ins "Schwätzen" und merken d
 <br>
 <br>
 
-{% include plyr.html audio=page.html %}
-
  <audio controls>
   <source src="https://archive.org/download/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3" type="audio/mpeg">
 </audio> 
 
+{% include plyr.html audio=page.html %}
+
 <div class="container">
 	<audio crossorigin playsinline>
-		<source src="https://archive.org/download/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3" type="audio/mp3">
+		<source src="https://archive.org/download/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3" type="audio/mpeg">
 	</audio>
 </div>
 
