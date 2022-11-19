@@ -23,8 +23,6 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 
 {% include plyr.html audio=page.html %}
 
-https://archive.org/download/lrparkett-podcast-folge-5-ein-konig-und-ein-mord/LRParkett%20Podcast%20Folge%205%20-%20Ein%20K%C3%B6nig%20und%20ein%20Mord.mp3
-
 {% include plyr.html src="https://archive.org/download/lrparkett-podcast-folge-5-ein-konig-und-ein-mord/LRParkett%20Podcast%20Folge%205%20-%20Ein%20K%C3%B6nig%20und%20ein%20Mord.mp3" %}
 
  <audio controls>
