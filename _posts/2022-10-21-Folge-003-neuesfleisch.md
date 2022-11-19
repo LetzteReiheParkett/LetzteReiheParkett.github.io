@@ -17,10 +17,8 @@ Vorhang auf für James Woods, in einer Welt, in der Fernsehbilder die Menschen k
 Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück und genießen Sie die "Letzte Reihe Parkett".
 <br>
 <br>
-{% include plyr.html audio=page.html %}
 
- <audio controls>
-  <source src="https://archive.org/download/lrp-folge-03-neues-fleisch/LRP%20Folge%2003%20-%20Neues%20Fleisch.mp3" type="audio/mpeg">
-</audio> 
+<iframe src="https://archive.org/embed/lrp-folge-03-neues-fleisch/LRP%20Folge%2003%20-%20Neues%20Fleisch.mp3" width="800" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 <img src="/assets/img/postings/posting003.png" alt="Podcast Cover">

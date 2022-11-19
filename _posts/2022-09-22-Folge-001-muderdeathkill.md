@@ -19,10 +19,8 @@ Vorhang auf für Sylvester Stallone gegen Wesley Snipes in einer glatt polierten
 Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück und genießen Sie die "Letzte Reihe Parkett".
 <br>
 <br>
-{% include plyr.html audio=page.html %}
 
- <audio controls>
-  <source src="https://archive.org/download/lrparkett-podcast-folge-01-murder-death-kill/LRParkett%20Podcast%20Folge%2001%20-%20Murder%20Death%20Kill.mp3" type="audio/mpeg">
-</audio> 
+<iframe src="https://archive.org/embed/lrparkett-podcast-folge-01-murder-death-kill/LRParkett%20Podcast%20Folge%2001%20-%20Murder%20Death%20Kill.mp3" width="800" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 <img src="/assets/img/postings/posting001.png" alt="Podcast Cover">

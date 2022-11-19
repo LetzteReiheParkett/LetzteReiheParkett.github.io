@@ -18,10 +18,8 @@ Vorhang auf für Jennifer Lawrence und Javier Bardem als verheiratetes Ehepaar o
 Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück und genießen Sie die "Letzte Reihe Parkett".
 <br>
 <br>
-{% include plyr.html audio=page.html %}
 
- <audio controls>
-  <source src="https://archive.org/download/lrp-podcast-folge-02-full-house/LRP%20Podcast%20Folge%2002%20-%20Full%20House.mp3" type="audio/mpeg">
-</audio> 
+<iframe src="https://archive.org/embed/lrp-podcast-folge-02-full-house/LRP%20Podcast%20Folge%2002%20-%20Full%20House.mp3" width="800" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 <img src="/assets/img/postings/posting002.png" alt="Podcast Cover">
