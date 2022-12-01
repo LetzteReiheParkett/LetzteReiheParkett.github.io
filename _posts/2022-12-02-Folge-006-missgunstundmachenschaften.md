@@ -3,7 +3,7 @@ title: Folge 6 - Missgunst und Machenschaften
 author: letztereiheparkett
 date: 2022-12-02 00:01:00 +0100
 categories: [Podcast]
-tags: [podcast,martin scorsese,robert de niro,harvey keitel,hexenkessel,mean streets,jack black,ben stiller,barry levinson,neid,envy,tobias meister,oliver rohrbeck,bodo wolf,frank glaubrecht,synchronsprecher]
+tags: [podcast,martin scorsese,robert de niro,harvey keitel,hexenkessel,mean streets,jack black,ben stiller,barry levinson,neid,envy,tobias meister,oliver rohrbeck,bodo wolf,frank glaubrecht,stefan fredrich,synchronsprecher]
 html: https://archive.org/download/lrparkett-podcast-folge-06-missgunst-und-machenschaften/LRParkett%20Podcast%20Folge%2006%20-%20Missgunst%20und%20Machenschaften.mp3
 ---
 
