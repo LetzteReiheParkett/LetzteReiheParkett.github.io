@@ -14,6 +14,6 @@ Nach holprigem Start, geraten die beiden dann doch ins "Schwätzen" und merken d
 <br>
 <br>
 
-<iframe src="https://archive.org/embed/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/lrparkett-podcast-folge-0-vorgesprach/LRParkett%20Podcast%20Folge%200%20-%20Vorgespr%C3%A4ch.mp3" width="800" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <img src="/assets/img/postings/posting000.png" alt="Podcast Cover">
