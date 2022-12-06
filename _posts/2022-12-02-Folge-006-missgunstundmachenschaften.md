@@ -7,7 +7,7 @@ tags: [podcast,martin scorsese,robert de niro,harvey keitel,hexenkessel,mean str
 html: https://archive.org/download/lrparkett-podcast-folge-06-missgunst-und-machenschaften/LRParkett%20Podcast%20Folge%2006%20-%20Missgunst%20und%20Machenschaften.mp3
 ---
 
-## Ein König und ein Mord
+## Missgunst und Machenschaften
 Hallo und herzlich willkommen liebe Gäste zum Podcast "Letzte Reihe Parkett".
 
 In ihrer neuen Folgen besprechen Dominik und Yves kurz ihre zuletzt gesehenen Filme, tauchen wie üblich in die Deutsche Synchrondatei ab und thematisieren ihre filmischen Hausaufgaben.
