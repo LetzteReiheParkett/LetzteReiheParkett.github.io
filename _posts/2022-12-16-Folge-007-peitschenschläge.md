@@ -3,7 +3,7 @@ title: Folge 7 - Peitschenschläge
 author: letztereiheparkett
 date: 2022-12-16 00:01:00 +0100
 categories: [Podcast]
-tags: [podcast,whiplash,glass onion,daniel craig,007,bond,miles teller,j k simmons,synchronsprecher,roman wolko,oliver stritzel]
+tags: [podcast,whiplash,glass onion,daniel craig,james bond,miles teller,j k simmons,synchronsprecher,roman wolko,oliver stritzel]
 html: https://archive.org/download/lrparkett-podcast-folge-07-peitschenschlage/LRParkett%20Podcast%20Folge%2007%20-%20Peitschenschl%C3%A4ge.mp3
 ---
 
