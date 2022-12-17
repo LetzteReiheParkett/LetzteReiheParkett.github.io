@@ -22,3 +22,45 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 
 
 <img src="/assets/img/postings/posting007.png" alt="Podcast Cover">
+
+
+### Erwähnte Filme
+
+Female Pleasure
+Rudolph, das Rentier (Trickfilm)
+The Menu
+Violent Night
+Die Schwimmerinnen
+Guardians of the Galaxy - Holiday Special
+
+### Erwähnte Serien
+
+Dracula (Netflix) --> von Dominik gerewatched
+
+### Hauptfilm
+
+(Glass Onion)
+Whiplash
+
+### Erwähnte Synchronsprecher
+
+Roman Wolko - Miles Teller, (älterer Bruder von Johannes Wolko --> Shia LaBeouf)
+
+Oliver Stritzel - Viertmeister Sprecher von J. K. Simmons ( Jan Spitzer Hauptsynhronstimme --> leider verstorben 04.11.2022), weitere Stimmen: Philip Seymour Hoffman, Idris Elba, Josh Brolin, Samuel L. Jackson, Sean Bean, Dave Bautista, Mickey Rourke, Lawrence Fishburne, Russel Crowe
+
+### Recherche Trivia
+
+Der Film Whiplash beruht auf einem Kurzfilm vom gleichen Regisseur. Damien Chazelle erhielt den Oscar als Bester Regisseur für La La Land(2017) und ist damit der jüngste Preisträger in dieser Kategorie aller Zeiten. Außerdem war er selbst Jazzschlagzeuger und litt unter der toxischen Beziehung zu seinem Lehrer.
+J. K. Simmons erhielt für Whiplash den Oscar als bester Nebendarsteller.
+
+### NICE / SCHEIß - Yves
+
+Versprochen ist Versprochen - Scheiß (Yves hasst den Film
+Bad Santa - Nicer Scheiß 
+Zwei Weihnachtsmänner - nur einmal eine Szene gesehen (nicht gesehen)
+Looper - Nicer Scheiß
+La La Land - Nice Nice geiler Scheiß
+Birdman - Nice, aber mehr erwartet --> Mhh Nice
+High Tension - nicht gesehen
+Martyrs - nicht gesehen
+Inside - nicht gesehen
