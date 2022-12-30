@@ -26,41 +26,41 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 
 ### Erwähnte Filme
 
-Female Pleasure
-Rudolph, das Rentier (Trickfilm)
-The Menu
-Violent Night
-Die Schwimmerinnen
-Guardians of the Galaxy - Holiday Special
+Female Pleasure <br>
+Rudolph, das Rentier (Trickfilm) <br>
+The Menu <br>
+Violent Night <br>
+Die Schwimmerinnen <br>
+Guardians of the Galaxy - Holiday Special <br>
 
 ### Erwähnte Serien
 
-Dracula (Netflix) --> von Dominik gerewatched
+Dracula (Netflix) --> von Dominik gerewatched <br>
 
 ### Hauptfilm
 
-(Glass Onion)
-Whiplash
+(Glass Onion) <br>
+Whiplash <br>
 
 ### Erwähnte Synchronsprecher
 
-Roman Wolko - Miles Teller, (älterer Bruder von Johannes Wolko --> Shia LaBeouf)
+Roman Wolko - Miles Teller, (älterer Bruder von Johannes Wolko --> Shia LaBeouf) <br>
 
-Oliver Stritzel - Viertmeister Sprecher von J. K. Simmons ( Jan Spitzer Hauptsynhronstimme --> leider verstorben 04.11.2022), weitere Stimmen: Philip Seymour Hoffman, Idris Elba, Josh Brolin, Samuel L. Jackson, Sean Bean, Dave Bautista, Mickey Rourke, Lawrence Fishburne, Russel Crowe
+Oliver Stritzel - Viertmeister Sprecher von J. K. Simmons (Jan Spitzer Hauptsynchronstimme --> leider verstorben 04.11.2022), weitere Stimmen: Philip Seymour Hoffman, Idris Elba, Josh Brolin, Samuel L. Jackson, Sean Bean, Dave Bautista, Mickey Rourke, Lawrence Fishburne, Russel Crowe
 
 ### Recherche Trivia
 
-Der Film Whiplash beruht auf einem Kurzfilm vom gleichen Regisseur. Damien Chazelle erhielt den Oscar als Bester Regisseur für La La Land(2017) und ist damit der jüngste Preisträger in dieser Kategorie aller Zeiten. Außerdem war er selbst Jazzschlagzeuger und litt unter der toxischen Beziehung zu seinem Lehrer.
+Der Film Whiplash beruht auf einem Kurzfilm vom gleichen Regisseur. Damien Chazelle erhielt den Oscar als Bester Regisseur für La La Land(2017) und ist damit der jüngste Preisträger in dieser Kategorie aller Zeiten. Außerdem war er selbst Jazzschlagzeuger und litt unter der toxischen Beziehung zu seinem Lehrer. <br>
 J. K. Simmons erhielt für Whiplash den Oscar als bester Nebendarsteller.
 
 ### NICE / SCHEIß - Yves
 
-Versprochen ist Versprochen - Scheiß (Yves hasst den Film
-Bad Santa - Nicer Scheiß 
-Zwei Weihnachtsmänner - nur einmal eine Szene gesehen (nicht gesehen)
-Looper - Nicer Scheiß
-La La Land - Nice Nice geiler Scheiß
-Birdman - Nice, aber mehr erwartet --> Mhh Nice
-High Tension - nicht gesehen
-Martyrs - nicht gesehen
-Inside - nicht gesehen
+Versprochen ist Versprochen - Scheiß (Yves hasst den Film) <br>
+Bad Santa - Nicer Scheiß <br>
+Zwei Weihnachtsmänner - nur einmal eine Szene gesehen (nicht gesehen) <br>
+Looper - Nicer Scheiß <br>
+La La Land - Nice Nice geiler Scheiß <br>
+Birdman - Nice, aber mehr erwartet --> mhh Nice <br>
+High Tension - nicht gesehen <br>
+Martyrs - nicht gesehen <br>
+Inside - nicht gesehen <br>
