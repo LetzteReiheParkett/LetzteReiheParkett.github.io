@@ -22,155 +22,155 @@ Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück
 
 ### Januar:
 
-The 355
-Kingsman - The Beginning
-Scream 5
-Sing 2
+The 355 <br>
+Kingsman - The Beginning <br>
+Scream 5 <br>
+Sing 2 <br>
 
 
 
 ### Februar:
 
-In 80 Tagen um die Welt
-Marry Me
-Moonfall
-Wunderschön
-Tod auf dem Nil
-Uncharted
-Der Pfad
-King Richard
-Belfast
-Studio 666
+In 80 Tagen um die Welt <br>
+Marry Me <br>
+Moonfall <br>
+Wunderschön <br>
+Tod auf dem Nil <br>
+Uncharted <br>
+Der Pfad <br>
+King Richard <br>
+Belfast <br>
+Studio 666 <br>
 
 
 
 
 ### März:
 
-The Card Counter
-The Batman
-Der Wolf und der Löwe
-Gangster Gang
-J.G.A.
-Ambulance
-Morbius
-Sonic 2
+The Card Counter <br>
+The Batman <br>
+Der Wolf und der Löwe <br>
+Gangster Gang <br>
+J.G.A. <br>
+Ambulance <br>
+Morbius <br>
+Sonic 2 <br>
 
 
 
 
 ### April:
 
-Phantastische Tierwesen 3
-Eingeschlossene Gesellschaft
-The Northman
-The Lost City
-Downton Abbey 2
-Everything Everywhere All At Once
+Phantastische Tierwesen 3 <br>
+Eingeschlossene Gesellschaft <br>
+The Northman <br>
+The Lost City <br>
+Downton Abbey 2 <br>
+Everything Everywhere All At Once <br>
 
 
 
 
 ### Mai:
 
-Doctor Strange 2
-Biene Maja 3
+Doctor Strange 2 <br>
+Biene Maja 3 <br>
 Firestarter
-Willi und die Wunderkröte
-Dog - das Glück auf 4 Pfoten
-Stasikomödie
-Top Gun: Maverick
-Immenhof 2
-Mia and Me
+Willi und die Wunderkröte <br>
+Dog - das Glück auf 4 Pfoten <br>
+Stasikomödie <br>
+Top Gun: Maverick <br>
+Immenhof 2 <br>
+Mia and Me <br>
 
 
 
 
 ### Juni:
 
-Jurassic World 3
-Massive Talent
-Lightyear
-Geschichte der Menschheit
-Elvis
-The Black Phone
-Minions 2
+Jurassic World 3 <br>
+Massive Talent <br>
+Lightyear <br>
+Geschichte der Menschheit <br>
+Elvis <br>
+The Black Phone <br>
+Minions 2 <br>
 
 
 
 ### Juli:
-Thor 4
-Liebesdings
-Alfons Zitterbacke
-Monsieur Claude und sein großes Fest
-Bibi und Tina
-DC League of SuperPets
+Thor 4 <br>
+Liebesdings <br>
+Alfons Zitterbacke <br>
+Monsieur Claude und sein großes Fest <br>
+Bibi und Tina <br>
+DC League of SuperPets <br>
 
 
 
 ### August:
-Bullet Train
-Gugelhupfgeschwader
-Nope
-Der junge Häuptling Winetou
-Mein Lotta Leben
-Die Känguruverschwörung
-After Forever
-Ted Stones 2
-Over and Out
+Bullet Train <br>
+Gugelhupfgeschwader <br>
+Nope <br>
+Der junge Häuptling Winetou <br>
+Mein Lotta Leben <br>
+Die Känguruverschwörung <br>
+After Forever <br>
+Ted Stones 2 <br>
+Over and Out <br>
 
 
 
 ### September:
 
-Orphan - First Kill
-Alle für Ella
-Ticket ins Paradies
-Chase
-Lieber Kurt
-Dont Worry Darling
-Smile
-1000 Zeilen
-Die Schule der Magischen Tiere 2
+Orphan - First Kill <br>
+Alle für Ella <br>
+Ticket ins Paradies <br>
+Chase <br>
+Lieber Kurt <br>
+Dont Worry Darling <br>
+Smile <br>
+1000 Zeilen <br>
+Die Schule der Magischen Tiere 2 <br>
 
 
 
 ### Oktober:
 
-Woman King
-In einem Land dass es nicht mehr gibt
-Halloween Ends
-Meine ChaosFee und Ich
-One Piece: Red
-Black Adam
-Der Nachname
-Lyle, mein Freund das Krokodil
-Die Mucklas und wie sie zu Petterson und Findus kamen
-Bodies Bodies Bodies
-Rheingold
+Woman King <br>
+In einem Land dass es nicht mehr gibt <br>
+Halloween Ends <br>
+Meine ChaosFee und Ich <br>
+One Piece: Red <br>
+Black Adam <br>
+Der Nachname <br>
+Lyle, mein Freund das Krokodil <br>
+Die Mucklas und wie sie zu Petterson und Findus kamen <br>
+Bodies Bodies Bodies <br>
+Rheingold <br>
 
 
 
 
 ### November:
 
-Amsterdam
-The Devils Light
-Hui Buh und das Hexenschloss
-Black Panther: Wakanda Forever
-Mrs. Harris und ein Kleid von Dior
-The Menu
-The Magic Flute
-Einfach mal was Schönes
+Amsterdam <br>
+The Devils Light <br>
+Hui Buh und das Hexenschloss <br>
+Black Panther: Wakanda Forever <br>
+Mrs. Harris und ein Kleid von Dior <br>
+The Menu <br>
+The Magic Flute <br>
+Einfach mal was Schönes <br>
 
 
 
 
 ### Dezember:
 
-Violent Night
-She Said
-Avatar - Way of Water
-Der gestiefelte Kater 2
-I Wanna Dance With Somebody
+Violent Night <br>
+She Said <br>
+Avatar - Way of Water <br>
+Der gestiefelte Kater 2 <br>
+I Wanna Dance With Somebody <br>
 Oscars Kleid
