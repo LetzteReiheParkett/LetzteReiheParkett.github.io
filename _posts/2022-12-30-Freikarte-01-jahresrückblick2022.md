@@ -3,7 +3,7 @@ title: Freikarte 01 - Jahresrückblick 2022
 author: letztereiheparkett
 date: 2022-12-30 00:01:00 +0100
 categories: [Podcast]
-tags: [podcast, film, filme, kino, jahresrückblick, jahresrueckblick]
+tags: [podcast,film,filme,kino,jahresrückblick,jahresrueckblick]
 html: https://archive.org/download/lrparkett-freikarte-01-jahresruckblick-2022/LRParkett%20Freikarte%2001%20-%20Jahresr%C3%BCckblick%202022.mp3
 ---
 
@@ -13,7 +13,7 @@ Hallo und herzlich Willkommen liebe Gäste zur Letzten Reihe Parkett.
 Auch das Kinojahr ist nun an seinem Ende angelangt. Grund genug also sich einmal zusammenzusetzen und all die Filme Revue passieren zu lassen, die uns und das Kino dieses Jahr geprägt haben.
 Dafür haben wir uns tatkräftige Unterstützung besorgt und unsere liebe Kollegin/Vorgesetze Catharina eingeladen. Zu dritt streifen wir durch die Monate und erinnern uns so zurück.
 
-Wir haben für Sie mitreserviert, also nehmen Sie, Platz, lehnen Sie sich zurück und genießen Sie Ihre Freikarte.
+Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück und genießen Sie Ihre Freikarte.
 
 <br>
 <br>
