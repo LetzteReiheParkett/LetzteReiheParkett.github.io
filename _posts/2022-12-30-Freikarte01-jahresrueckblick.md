@@ -14,7 +14,6 @@ Auch das Kinojahr ist nun an seinem Ende angelangt. Grund genug also sich einmal
 Dafür haben wir uns tatkräftige Unterstützung besorgt und unsere liebe Kollegin/Vorgesetze Catharina eingeladen. Zu dritt streifen wir durch die Monate und erinnern uns so zurück.
 
 Wir haben für Sie mitreserviert, also nehmen Sie Platz, lehnen Sie sich zurück und genießen Sie Ihre Freikarte.
-
 <br>
 <br>
 
