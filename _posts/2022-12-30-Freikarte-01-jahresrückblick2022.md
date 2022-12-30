@@ -3,7 +3,7 @@ title: Freikarte 01 - Jahresrückblick 2022
 author: letztereiheparkett
 date: 2022-12-30 00:01:00 +0100
 categories: [Podcast]
-tags: [podcast,whiplash,glass onion,daniel craig,james bond,miles teller,j k simmons,synchronsprecher,roman wolko,oliver stritzel]
+tags: [podcast, film, filme, kino, jahresrückblick, jahresrueckblick]
 html: https://archive.org/download/lrparkett-freikarte-01-jahresruckblick-2022/LRParkett%20Freikarte%2001%20-%20Jahresr%C3%BCckblick%202022.mp3
 ---
 
