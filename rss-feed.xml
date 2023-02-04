@@ -211,5 +211,20 @@
 			</guid>
 		</item>
 
+		<item>
+			<title>Folge 09: Katze im Sack</title>
+			<description>Hallo und herzlich Willkommen liebe Gäste zur Letzten Reihe Parkett.
+			In der heutigen Folge ist Alex zu Besuch. Mit ihm bespricht Yves die beiden beängstigend verstörenden Funny Games Filme aus den Jahren 1997 und 2007. Kritikerliebling Michael Haneke hält darin auf perfide Weise der Gesellschaft einen Spiegel vor.
+			Haltet euch fest, das Spiel beginnt. Plätze haben wir euch natürlich wieder reserviert, selbstverständlich in der Letzten Reihe Parkett. Viel Spaß :)</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-09-katze-im-sack/LRParkett%20Podcast%20Folge%2009%20-%20Katze%20im%20Sack.mp3" type="audio/mpeg" length="203449066" />
+			<pubDate>Fri, 03 Feb 2023 00:01:00 +0100</pubDate>
+			<itunes:author>Yves Mertig und Catharina Schmidt</itunes:author>
+			<itunes:duration>01:24:46</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-09-katze-im-sack/LRParkett%20Podcast%20Folge%2009%20-%20Katze%20im%20Sack.mp3
+			</guid>
+		</item>
+
 	</channel>
 </rss>
