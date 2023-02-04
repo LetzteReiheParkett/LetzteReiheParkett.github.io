@@ -42,7 +42,17 @@ Funny Games US <br>
 
 ### Recherche Trivia
 
-
+Ursprünglich hatte Haneke vor den Film direkt für ein amerikanisches Publikum zu drehen. Dies war ihm dann erst mit der Kinoveröffentlichung des Remakes "Funny Games U.S." 10 Jahre nach dem Original möglich.
 
 ### NICE / SCHEIß - Alex
 
+Uncharted - nice nice <br>
+Cherry - nicer scheiß <br>
+Chaos Walking - aah schon eher scheiß <br>
+The Devil All The Time - sehr sehr nice <br>
+The Current War - sehr gut <br>
+The Lost City of Z - ok <br>
+Im Herzen der See - 6 von 10 Sternen Tendenz zu nice <br>
+The Impossible - nicer als nice, nice¹⁰ <br>
+Pilgrimage - 6,5 von 10 auch nice <br>
+alle Spiderman - sehr sehr sehr nice
