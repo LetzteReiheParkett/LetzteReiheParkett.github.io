@@ -7,7 +7,7 @@ tags: [podcast,big trouble in little china,john carpenter,kurt russell]
 html: https://archive.org/download/lrparkett-podcast-folge-08-achterbahn-in-chinatown/LRParkett%20Podcast%20Folge%2008%20-%20Achterbahn%20in%20Chinatown.mp3
 ---
 
-## Peitschenschläge
+## Achterbahn in Chinatown
 Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
 
 In der heutigen Folge bespricht Yves mit der uns bekannten Catharina mit C den Kultfilm "Big Trouble In Little China" aus dem Jahre 1986 von Meisterregisseur John Carpenter. Kurt Russell als sogenannter Held in einem Action-Abenteuer der besonderen Art.

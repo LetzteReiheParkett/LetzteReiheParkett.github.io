@@ -8,7 +8,7 @@ tags: [
 html: https://archive.org/download/lrparkett-podcast-folge-09-katze-im-sack/LRParkett%20Podcast%20Folge%2009%20-%20Katze%20im%20Sack.mp3
 ---
 
-## Peitschenschläge
+## Katze im Sack
 Hallo und herzlich Willkommen liebe Gäste zur Letzten Reihe Parkett.
 
 In der heutigen Folge ist Alex zu Besuch. Mit ihm bespricht Yves die beiden beängstigend verstörenden Funny Games Filme aus den Jahren 1997 und 2007. Kritikerliebling Michael Haneke hält darin auf perfide Weise der Gesellschaft einen Spiegel vor.
