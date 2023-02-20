@@ -1,7 +1,7 @@
 ---
 title: Folge 10 - Tanz dich frei
 author: letztereiheparkett
-date: 2023-02-20 00:01:00 +0100
+date: 2023-02-17 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,herbert ross,footloose,kevin bacon,lori singer,john lithgow,sarah jessica parker,chris penn]
 html: https://archive.org/download/lrparkett-podcast-folge-10-tanz-dich-frei/LRParkett%20Podcast%20Folge%2010%20-%20Tanz%20dich%20frei.mp3
