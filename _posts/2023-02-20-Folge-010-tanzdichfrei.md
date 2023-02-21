@@ -4,7 +4,7 @@ author: letztereiheparkett
 date: 2023-02-20 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,herbert ross,footloose,kevin bacon,lori singer,john lithgow,sarah jessica parker,chris penn]
-html: https://archive.org/download/lrparkett-podcast-folge-10-tanz-dich-frei/LRParkett%20Podcast%20Folge%2010%20-%20Tanz%20dich%20frei.mp3
+html: https://archive.org/download/lrparkett-podcast-folge-10-tanz-dich-frei_202302/LRParkett%20Podcast%20Folge%2010%20-%20Tanz%20dich%20frei.mp3
 ---
 
 ## Tanz dich frei
@@ -16,7 +16,7 @@ Schwingt die Hüften, die Tanzfläche ist freigegeben. Plätze haben wir euch na
 <br>
 <br>
 
-<iframe src="https://archive.org/download/lrparkett-podcast-folge-10-tanz-dich-frei/LRParkett%20Podcast%20Folge%2010%20-%20Tanz%20dich%20frei.mp3" width="800" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/download/lrparkett-podcast-folge-10-tanz-dich-frei_202302/LRParkett%20Podcast%20Folge%2010%20-%20Tanz%20dich%20frei.mp3" width="800" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <img src="/assets/img/postings/posting010.png" alt="Podcast Cover">
