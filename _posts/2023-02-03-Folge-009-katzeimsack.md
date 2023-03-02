@@ -1,6 +1,6 @@
 ---
 title: Folge 9 - Katze im Sack
-author: letztereiheparkett
+author: Yves Mertig & Alexander Salmon
 date: 2023-01-20 00:01:00 +0100
 categories: [Podcast]
 tags: [

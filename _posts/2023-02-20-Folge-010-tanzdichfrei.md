@@ -1,6 +1,6 @@
 ---
 title: Folge 10 - Tanz dich frei
-author: letztereiheparkett
+author: Yves Mertig & Jördis Ahnert
 date: 2023-02-20 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,herbert ross,footloose,kevin bacon,lori singer,john lithgow,sarah jessica parker,chris penn]

@@ -1,6 +1,6 @@
 ---
 title: Freikarte 01 - Jahresrückblick 2022
-author: letztereiheparkett
+author: letztereiheparkett & Catharina Schmidt
 date: 2022-12-30 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,film,filme,kino,jahresrückblick]

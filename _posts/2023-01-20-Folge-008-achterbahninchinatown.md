@@ -1,6 +1,6 @@
 ---
 title: Folge 8 - Achterbahn in Chinatown
-author: letztereiheparkett
+author: Yves Mertig & Catharina Schmidt
 date: 2023-01-20 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,big trouble in little china,john carpenter,kurt russell]
