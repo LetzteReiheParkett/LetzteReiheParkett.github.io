@@ -39,7 +39,7 @@ Live by Night <br>
 
 Mean Girls <br>
 
-### NICE / SCHEIß - Jördis
+### NICE / SCHEIß - Eva
 
 10 Dinge, die ich an Dir hasse - richtig nicer Scheiß <br>
 Chocolat - nicht gesehen <br>
