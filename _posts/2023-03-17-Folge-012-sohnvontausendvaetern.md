@@ -38,6 +38,8 @@ King of Queens (Serie)
 
 Mean Girls <br>
 
+### NICE / SCheiß - Gregor
+
 Der Texaner - nice <br>
 Der Schwarze Falke - nicht gesehen <br>
 Spiel mir das Lied vom Tod - nice <br>
