@@ -13,7 +13,7 @@ Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
 Die Highschool geht los und Yves begrüßt die Neue in unserer Podcastklasse, Eva. Sie hat den Film "Girls Club - Vorsicht Bissig" mitgebracht, auch bekannt als Mean Girls. Lindsay Lohan, Rachel McAdams und Amanda Seyfried begrüßen euch in ihrer Clique.
 
 Also stoppt das Lästern und hört gut zu.
-Plätze haben wir euch natürlich wieder reserviert, selbständlich in der Letzten Reihe Parkett. Viel Spaß :)
+Plätze haben wir euch natürlich wieder reserviert, selbstverständlich in der Letzten Reihe Parkett. Viel Spaß :)
 <br>
 <br>
 

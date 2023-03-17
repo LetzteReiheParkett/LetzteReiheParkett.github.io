@@ -12,7 +12,7 @@ Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
 
 Die gute Jördis hat es nach ihrer letzten Sprachnachricht diesmal als Gast in den Podcast geschafft und bespricht mit Yves Footloose und weitere Tanzfilme. Kevin Bacon kämpft gegen das Tanzverbot in einem kleinen amerikanischen Dorf an.
 
-Schwingt die Hüften, die Tanzfläche ist freigegeben. Plätze haben wir euch natürlich wieder reserviert, selbständlich in der Letzten Reihe Parkett. Viel Spaß :)
+Schwingt die Hüften, die Tanzfläche ist freigegeben. Plätze haben wir euch natürlich wieder reserviert, selbstverständlich in der Letzten Reihe Parkett. Viel Spaß :)
 <br>
 <br>
 
