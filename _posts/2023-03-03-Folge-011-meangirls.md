@@ -1,5 +1,5 @@
 ---
-title: Folge 11 - On Wednesday we wear pink
+title: Folge 11 - On Wednesdays we wear pink
 author: letztereiheparkett
 date: 2023-03-03 00:01:00 +0100
 categories: [Podcast]
@@ -7,7 +7,7 @@ tags: [podcast,mark waters,mean girls,girls club,lindsay lohan,rachel mcadams,am
 html: https://archive.org/download/lrparkett-podcast-folge-11-on-wednesdays-we-wear-pink/LRParkett%20Podcast%20Folge%2011%20-%20On%20Wednesdays%20we%20wear%20pink.mp3
 ---
 
-## On Wednesday we wear pink
+## On Wednesdays we wear pink
 Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
 
 Die Highschool geht los und Yves begrüßt die Neue in unserer Podcastklasse, Eva. Sie hat den Film "Girls Club - Vorsicht Bissig" mitgebracht, auch bekannt als Mean Girls. Lindsay Lohan, Rachel McAdams und Amanda Seyfried begrüßen euch in ihrer Clique.
