@@ -42,9 +42,9 @@ Zwei glorreiche Halunken <br>
 
 Der Texaner - großartig, absolut nice <br>
 Der schwarze Falke - nicht gesehen, kein John Wayne Film <br>
-Erbarmungslos - ja Nice, sehr cooler Film <br>
+Erbarmungslos - ja nice, sehr cooler Film <br>
 Todesmelodie - zu lange nicht gesehen <br>
-Spiel mit das Lied vom Tod - Nice, keine zwei Meinungen <br>
+Spiel mit das Lied vom Tod - nice, keine zwei Meinungen <br>
 Todeszug nach Yuma - einer der besseren neuen Western, aus dem Grund nice <br>
 Dead Man - großartig, nice <br>
 The Wild Bunch - nicht gesehen <br>
