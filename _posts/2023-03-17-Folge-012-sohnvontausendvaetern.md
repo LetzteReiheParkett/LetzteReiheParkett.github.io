@@ -4,7 +4,7 @@ author: letztereiheparkett
 date: 2023-03-17 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,sergio leone,zwei glorreiche halunken,the good the bad and the ugly,clint eastwood,lee van cleef,eli wallach]
-html: https://archive.org/download/lrparkett-podcast-folge-12-sohn-von-tausend-vatern/LRParkett%20Podcast%20Folge%2012%20-Sohn%20von%20tausend%20V%C3%A4tern.m4a
+html: https://archive.org/download/lrparkett-podcast-folge-12-sohn-von-tausend-vatern/LRParkett%20Podcast%20Folge%2012%20-Sohn%20von%20tausend%20V%C3%A4tern.mp3
 ---
 
 ## Sohn von tausend Vätern
@@ -17,7 +17,7 @@ Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Le
 <br>
 <br>
 
-<iframe src="https://archive.org/download/lrparkett-podcast-folge-12-sohn-von-tausend-vatern/LRParkett%20Podcast%20Folge%2012%20-Sohn%20von%20tausend%20V%C3%A4tern.m4a" width="800" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/download/lrparkett-podcast-folge-12-sohn-von-tausend-vatern/LRParkett%20Podcast%20Folge%2012%20-Sohn%20von%20tausend%20V%C3%A4tern.mp3" width="800" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <img src="/assets/img/postings/posting012.png" alt="Podcast Cover">
