@@ -36,14 +36,20 @@ King of Queens (Serie)
 
 ### Hauptfilm
 
-Mean Girls <br>
+Zwei glorreiche Halunken <br>
 
-### NICE / SCheiß - Gregor
+### NICE / SCHEIß - Gregor
 
-Der Texaner - nice <br>
-Der Schwarze Falke - nicht gesehen <br>
-Spiel mir das Lied vom Tod - nice <br>
-Todeszug nach Yuma - nice <br>
-True Grit - scheiß, ne scheiß <br>
-Butch Cassady und Sundance Kid - scheiß <br>
+Der Texaner - großartig, absolut nice <br>
+Der schwarze Falke - nicht gesehen, kein John Wayne Film <br>
+Erbarmungslos - ja Nice, sehr cooler Film <br>
+Todesmelodie - zu lange nicht gesehen <br>
+Spiel mit das Lied vom Tod - Nice, keine zwei Meinungen <br>
+Todeszug nach Yuma - einer der besseren neuen Western, aus dem Grund nice <br>
+Dead Man - großartig, nice <br>
+The Wild Bunch - nicht gesehen <br>
+True Grit - nö, ist scheiß <br>
+Butch Cassidy und Sundance Kid - ne ist auch scheiß <br>
+Django Unchained - nice (Zwei glorreiche Halunken ist Tarantinos Lieblingsfilm)
+
 
