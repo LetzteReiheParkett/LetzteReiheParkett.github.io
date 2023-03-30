@@ -1,6 +1,6 @@
 ---
 title: Folge 12 - Sohn von tausend Vätern
-author: letztereiheparkett & Gregor Frank
+author: Yves Mertig & Gregor Frank
 date: 2023-03-17 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,sergio leone,zwei glorreiche halunken,the good the bad and the ugly,clint eastwood,lee van cleef,eli wallach]
