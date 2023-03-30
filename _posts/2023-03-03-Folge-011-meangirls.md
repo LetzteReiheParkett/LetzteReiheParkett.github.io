@@ -1,6 +1,6 @@
 ---
 title: Folge 11 - On Wednesdays we wear pink
-author: letztereiheparkett
+author: letztereiheparkett & Eva Hilger
 date: 2023-03-03 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,mark waters,mean girls,girls club,lindsay lohan,rachel mcadams,amanda seyfried]
