@@ -40,7 +40,7 @@ Succession (Serie)
 
 Die Truman Show <br>
 
-### NICE / SCheiß - Gregor
+### NICE / Scheiß - Alex
 
 House of Wax - mega, richtig richtig geil <br>
 Ich weiß, was du letzten Sommer getan hast - nicht im Gedächtnis, recht neutral <br>
