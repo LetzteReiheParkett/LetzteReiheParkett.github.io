@@ -1,6 +1,6 @@
 ---
 title: Folge 13 - Round Mushmore aus Pappmaschee
-authors: [<yves>, <alex>]
+authors: [yves, alex]
 date: 2023-03-31 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,peter weir,andrew niccol,truman show,jim carrey,drama,komödie,comedy]
