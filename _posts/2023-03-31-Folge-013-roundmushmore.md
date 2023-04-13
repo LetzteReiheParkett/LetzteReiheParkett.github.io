@@ -1,6 +1,6 @@
 ---
 title: Folge 13 - Round Mushmore aus Pappmaschee
-author: Yves Mertig & Alexander Salmon
+authors: [yves, alex]
 date: 2023-03-31 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,peter weir,andrew niccol,truman show,jim carrey,drama,komödie,comedy]
@@ -40,7 +40,7 @@ Succession (Serie)
 
 Die Truman Show <br>
 
-### NICE / SCheiß - Gregor
+### NICE / Scheiß - Alex
 
 House of Wax - mega, richtig richtig geil <br>
 Ich weiß, was du letzten Sommer getan hast - nicht im Gedächtnis, recht neutral <br>
