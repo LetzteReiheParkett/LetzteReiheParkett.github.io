@@ -12,7 +12,8 @@
 		<title>Letzte Reihe Parkett</title>
 		<link>https://letztereiheparkett.github.io</link>
 		<language>de-DE</language>
-		<description>Filmpodcast</itunes:subtitle>
+		<description>Filmpodcast</description>
+                <iTunes:subtitle></itunes:subtitle>
 		<itunes:summary>
 		Der Podcast zu Filmen und mehr.
 		</itunes:summary>
