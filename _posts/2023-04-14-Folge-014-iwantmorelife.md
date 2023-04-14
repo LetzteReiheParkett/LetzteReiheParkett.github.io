@@ -35,7 +35,7 @@ Luden (Serie) <br>
 Euphoria (Serie) <br>
 Diese Ochsenknechts (Reality Serie)
 
-### Hauptfilm
+### Hauptfilme
 
 Blade Runner (1982) <br>
 Blade Runner 2049 (2017)<br>
