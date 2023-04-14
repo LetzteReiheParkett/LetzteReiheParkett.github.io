@@ -40,7 +40,7 @@ Diese Ochsenknechts (Reality Serie)
 Blade Runner (1982) <br>
 Blade Runner 2049 (2017)<br>
 
-### NICE / SCheiß - Gregor
+### NICE / Scheiß - Tilo
 
 Mad Max: Fury Road - nice, richtig nice <br>
 Interstellar - auch wahnsinnig nice <br>
