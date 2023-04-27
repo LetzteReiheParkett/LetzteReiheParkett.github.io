@@ -304,7 +304,25 @@
 			<guid isPermaLink="false">
 			https://archive.org/download/lrparkett-podcast-folge-14-i-want-more-life-father/LRParkett%20Podcast%20Folge%2014%20-%20I%20want%20more%20life%2C%20father.mp3
 			</guid>
-		</item>		
+		</item>	
+
+		<item>
+			<title>Folge 15: Wer ist Max?</title>
+			<description>Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
+			Das Osterfest ist vorbei und der Frühjahrsputz geht eifrig weiter.
+			Zu Gast haben wir in der heutigen Folge die liebe Luise und mit ihr im Schlepptau tatkräftige Unterstützung. Der kleine fleißige Roboter "Wall-E" wird uns heute begleiten und ordentlich unter die Arme greifen.
+			Also stellt den Besen kurz zur Seite, legt den Lappen aus der Hand und macht es euch bequem.
+			Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Letzten Reihe Parkett. Viel Spaß :)</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-15-wer-ist-max/LRParkett%20Podcast%20Folge%2015%20-%20Wer%20ist%20Max%3F.mp3" type="audio/mpeg" length="147648385" />
+			<pubDate>Fri, 28 Apr 2023 00:01:00 +0100</pubDate>
+			<itunes:author>Yves Mertig und Luise Brumme</itunes:author>
+			<itunes:duration>01:01:31</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-15-wer-ist-max/LRParkett%20Podcast%20Folge%2015%20-%20Wer%20ist%20Max%3F.mp3
+			</guid>
+		</item>
+
 		
 
 	</channel>
