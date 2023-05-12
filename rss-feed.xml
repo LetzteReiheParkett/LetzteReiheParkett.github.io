@@ -323,7 +323,21 @@
 			</guid>
 		</item>
 
-		
+		<item>
+			<title>Folge 16: Austauschbar und Aussichtslos</title>
+			<description>Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
+			Die liebe Eva hat das Mikrofon enstaubt und beehrt uns in der heutigen Podcastfolge. Mitgebracht hat sie das deutsche Oscarwunder der vergangenen Verleihung, "Im Westen nichts Neues". Regisseur Edward Berger hat den Roman von Remarque meisterhaft neu verfilmt und ist damit traurigerweise aktueller denn je.
+			Also hört gebannt, seid gespannt und macht es euch bequem.
+			Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Letzten Reihe Parkett. Viel Spaß :)</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-16-austauschbar-und-aussichtslos/LRParkett%20Podcast%20Folge%2016%20-%20Austauschbar%20und%20Aussichtslos.mp3" type="audio/mpeg" length="181399651" />
+			<pubDate>Fri, 12 May 2023 00:01:00 +0100</pubDate>
+			<itunes:author>Yves Mertig und Eva Hilger</itunes:author>
+			<itunes:duration>01:15:34</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-16-austauschbar-und-aussichtslos/LRParkett%20Podcast%20Folge%2016%20-%20Austauschbar%20und%20Aussichtslos.mp3
+			</guid>
+		</item>
 
 	</channel>
 </rss>

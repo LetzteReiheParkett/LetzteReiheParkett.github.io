@@ -1,7 +1,7 @@
 ---
 title: Folge 15 - Wer ist Max?
 author: Yves Mertig & Luise Brumme
-date: 2023-04-14 00:01:00 +0100
+date: 2023-04-28 00:01:00 +0100
 categories: [Podcast]
 tags: [podcast,wall e,wall-e,pixar,andrew stanton]
 html: https://archive.org/download/lrparkett-podcast-folge-15-wer-ist-max/LRParkett%20Podcast%20Folge%2015%20-%20Wer%20ist%20Max%3F.mp3
@@ -34,7 +34,7 @@ Olympus Has Fallen <br>
 Inspektor Clouseau, der "beste" Mann bei Interpol <br>
 Léon - Der Profi <br>
 
-### Hauptfilme
+### Hauptfilm
 
 Wall-E <br>
 
