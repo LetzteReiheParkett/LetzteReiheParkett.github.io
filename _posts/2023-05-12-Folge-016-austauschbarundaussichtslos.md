@@ -32,10 +32,10 @@ Evil Dead Rise <br>
 Three Billboards Outside Ebbing, Missouri <br>
 Frühstück bei Monsieur Henri <br>
 Was man von hier aus sehen kann <br>
-Only Murders in the Building <br>
-Fleischman Is in Trouble <br>
-The Bear <br>
-Killing Eve <br >
+Only Murders in the Building (Serie) <br>
+Fleischman Is in Trouble (Serie) <br>
+The Bear (Serie) <br>
+Killing Eve (Serie) <br >
 
 ### Hauptfilm
 
