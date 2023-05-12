@@ -25,14 +25,17 @@ Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Le
 
 ### Erwähnte Filme
 
-Vorstadtkrokodile (2009) <br>
-The Salvation <br>
-The Super Mario Bros. Movie <br>
-Winnie the Pooh: Blood and Honey <br>
-Diese Ochsenknechts <br>
-Olympus Has Fallen <br>
-Inspektor Clouseau, der "beste" Mann bei Interpol <br>
-Léon - Der Profi <br>
+Maigret <br>
+London Has Fallen <br>
+John Wick 1 -3 <br>
+Evil Dead Rise <br>
+Three Billboards Outside Ebbing, Missouri <br>
+Frühstück bei Monsieur Henri <br>
+Was man von hier aus sehen kann <br>
+Only Murders in the Building <br>
+Fleischman Is in Trouble <br>
+The Bear <br>
+Killing Eve <br >
 
 ### Hauptfilm
 
@@ -40,13 +43,13 @@ Im Westen nichts Neues (2022) <br>
 
 ### NICE / Scheiß - Eva
 
-Wimbledon - nicht gesehen <br>
-Die Chroniken von Narnia - Erster Teil nicer Scheiß, andere Teile kein Urteil <br>
-Abbitte - nice, aber eine Weile nicht gesehen <br>
-X-Men Filme - First Class nicer Scheiß, mega. Days of Future Past auch noch sehr gut. Apocalypse und Dark Phoenix stark abgenommen <br>
-Drecksau - liebe ich, Lieblingsfilm, Letterboxed Top 4 <br>
-Split - nice glaube ich, sehr lange her seit gesehen <br>
-Es Kapitel 2 - ne, nicht so nice <br>
-Gnomeo und Julia - Sherlock Gnomes - nicht gesehen <br>
-Trance - auch sehr gut <br>
-Der letzte König von Schottland - auch gut
+Lammbock - der ist super, ultra nice, sehr funny<br>
+Mädchen, Mädchen - jaaaa, auch super funny, nice <br>
+Das Leben der Anderen - nicht gesehen <br>
+Der Untergang - nicht gesehen <br>
+Good Bye, Lenin!- nice, irgendwie süß gemacht <br>
+Toni Erdmann - nicht gesehen <br>
+Lola Rennt - nicht gesehen <br>
+Die Welle - war sehr gut, schon nice <br>
+M - Eine Stadt sucht einen Mörder - sehr guter Film, überragend, 10 von 10 <br>
+Der Hauptmann - nicht gesehen <br>
