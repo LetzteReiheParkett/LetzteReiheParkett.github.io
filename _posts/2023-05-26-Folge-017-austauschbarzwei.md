@@ -21,21 +21,20 @@ Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Le
 <iframe src="https://archive.org/download/lrparkett-podcast-folge-17-austauschbar-und-aussichtslos-2/LRParkett%20Podcast%20Folge%2017%20-%20Austauschbar%20und%20Aussichtslos%20%282%29.mp3" width="800" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-<img src="/assets/img/postings/posting016.png" alt="Podcast Cover">
+<img src="/assets/img/postings/posting017.png" alt="Podcast Cover">
 
 ### Erwähnte Filme
 
-Maigret <br>
-London Has Fallen <br>
-John Wick 1 -3 <br>
-Evil Dead Rise <br>
-Three Billboards Outside Ebbing, Missouri <br>
-Frühstück bei Monsieur Henri <br>
-Was man von hier aus sehen kann <br>
-Only Murders in the Building (Serie) <br>
-Fleischman Is in Trouble (Serie) <br>
-The Bear (Serie) <br>
-Killing Eve (Serie) <br >
+Damen Gambit (Serie) <br>
+Squid Game (Serie) <br>
+Workin' Moms (Serie) <br>
+Queen Charlotte (Serie) <br>
+John Wick: Kapitel 4 <br>
+Guardians of the Galaxy Vol. 3 <br>
+Beautiful Disaster <br>
+Eighth Grade <br>
+Chicken Run - Hennen rennen <br>
+Malignant <br>
 
 ### Hauptfilm
 
@@ -43,13 +42,13 @@ Im Westen nichts Neues (1930) <br>
 
 ### NICE / Scheiß - Eva
 
-Lammbock - der ist super, ultra nice, sehr funny<br>
-Mädchen, Mädchen - jaaaa, auch super funny, nice <br>
-Das Leben der Anderen - nicht gesehen <br>
-Der Untergang - nicht gesehen <br>
-Good Bye, Lenin!- nice, irgendwie süß gemacht <br>
-Toni Erdmann - nicht gesehen <br>
-Lola Rennt - nicht gesehen <br>
-Die Welle - war sehr gut, schon nice <br>
-M - Eine Stadt sucht einen Mörder - sehr guter Film, überragend, 10 von 10 <br>
-Der Hauptmann - nicht gesehen <br>
+Top Gun Filme - mega nice <br>
+Cast Away - schon nice <br>
+Magnolia - super Film <br>
+Forrest Gump - scheiß Film <br>
+Geboren am 4. Juli - super Film <br>
+Green Mile - nicht gesehen <br>
+Krieg der Welten - nicht gesehen <br>
+Elvis - nicht gesehen (Yves fand den Film gut) <br>
+Mission Impossible - Weltklasse <br>
+Neues aus der Welt - nicht gesehen <br>
