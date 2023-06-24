@@ -369,7 +369,23 @@
 			<guid isPermaLink="false">
 			https://archive.org/download/lrparkett-podcast-folge-18-we-are-family/LRParkett%20Podcast%20Folge%2018%20-%20We%20are%20Family.mp3
 			</guid>
-		</item>		
+		</item>
+
+		<item>
+			<title>Folge 19: Auf hoher See, ins eigene Land</title>
+			<description>Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
+			Wir begrüßen die liebe Catharina mit C zurück in Podcast und sie hat einen ganz speziellen Film im petto. Dass im Juli diesen Jahres Oppenheimer von Christopher Nolan startet, war Anlass einmal genauer auf diesen Regisseur zu schauen und am Beispiel eines seiner Filme sein Können herauszustellen. Dunkirk - ein Kriegsdrama aus drei Perspektiven, das einen schon mal die Zeit vergessen lässt. 
+			Also hört gebannt, seid gespannt und macht es euch bequem.
+			Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Letzten Reihe Parkett. Viel Spaß :)</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-19-auf-hoher-see-ins-eigene-land/LRParkett%20Podcast%20Folge%2019%20-%20Auf%20hoher%20See%2C%20ins%20eigene%20Land.mp3" type="audio/mpeg" length="249149803" />
+			<pubDate>Fri, 23 Jun 2023 00:01:00 +0100</pubDate>
+			<itunes:author>Yves Mertig und Catharina Schmidt</itunes:author>
+			<itunes:duration>01:43:48</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-19-auf-hoher-see-ins-eigene-land/LRParkett%20Podcast%20Folge%2019%20-%20Auf%20hoher%20See%2C%20ins%20eigene%20Land.mp3
+			</guid>
+		</item>			
 
 	</channel>
 </rss>
