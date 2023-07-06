@@ -385,7 +385,23 @@
 			<guid isPermaLink="false">
 			https://archive.org/download/lrparkett-podcast-folge-19-auf-hoher-see-ins-eigene-land/LRParkett%20Podcast%20Folge%2019%20-%20Auf%20hoher%20See%2C%20ins%20eigene%20Land.mp3
 			</guid>
-		</item>			
+		</item>
+
+		<item>
+			<title>Folge 20 - Der einzig gute Jack Black Film</title>
+			<description>Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
+			Wir begrüßen zum ersten Mal meine liebe Schwester Gine im Podcast und sie hat eine sehr unterhaltsame satirische Actionkomödie mit vielen namhaften Schauspielern mitgebracht - Tropic Thunder. Ein Film im Film mit Darstellern die glauben einen Kriegsfilm zu drehen, jedoch ausgesetzt im Dschungel in die Quere einer Drogenbande geraten und dabei ihr blaues Wunder erleben.
+			Also hört gebannt, seid gespannt und macht es euch bequem.
+			Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Letzten Reihe Parkett. Viel Spaß :)</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-20-der-einzig-gute-jack-black-film/LRParkett%20Podcast%20Folge%2020%20-%20Der%20einzig%20gute%20Jack%20Black%20Film.mp3" type="audio/mpeg" length="204846130" />
+			<pubDate>Fri, 07 Jul 2023 00:01:00 +0100</pubDate>
+			<itunes:author>Yves Mertig und Gine Mertig</itunes:author>
+			<itunes:duration>01:25:21</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-20-der-einzig-gute-jack-black-film/LRParkett%20Podcast%20Folge%2020%20-%20Der%20einzig%20gute%20Jack%20Black%20Film.mp3
+			</guid>
+		</item>
 
 	</channel>
 </rss>
