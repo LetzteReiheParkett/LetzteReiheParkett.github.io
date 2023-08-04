@@ -3,7 +3,7 @@ title: Folge 21 - Das Vieh mit Maske
 author: Yves Mertig & Max Richter
 date: 2023-07-21 00:01:00 +0100
 categories: [Podcast]
-tags: [podcast,dunkirk,christopher nolan]
+tags: [podcast,anime,ghibli,prinzessin mononoke,princess mononoke,hayao miyazaki]
 html: https://archive.org/download/lrparkett-podcast-folge-21-das-vieh-mit-maske/LRParkett%20Podcast%20Folge%2021%20-%20Das%20Vieh%20mit%20Maske.mp3
 ---
 

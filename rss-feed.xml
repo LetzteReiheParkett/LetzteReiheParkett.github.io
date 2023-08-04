@@ -406,9 +406,9 @@
     <item>
 			<title>Folge 21 - Das Vieh mit Maske</title>
 			<description>Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
-      Diesmal heißt es neuer Gast, neues Genre. Wir begrüßen den lieben Max im Podcast und er hat uns etwas erfrischend neues mitgebracht. Seid gespannt auf den Animeklassiker Prinzessin Mononoke. Ein bezauberndes Abenteuer über das Verhältnis zwischen Mensch und Natur, das Konfliktpotential und facettenreiche Charaktere.
-      Also hört gebannt, seid gespannt und macht es euch bequem.
-      Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Letzten Reihe Parkett. Viel Spaß :)</description>
+			Diesmal heißt es neuer Gast, neues Genre. Wir begrüßen den lieben Max im Podcast und er hat uns etwas erfrischend neues mitgebracht. Seid gespannt auf den Animeklassiker Prinzessin Mononoke. Ein bezauberndes Abenteuer über das Verhältnis zwischen Mensch und Natur, das Konfliktpotential und facettenreiche Charaktere.
+			Also hört gebannt, seid gespannt und macht es euch bequem.
+			Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Letzten Reihe Parkett. Viel Spaß :)</description>
 			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-21-das-vieh-mit-maske/LRParkett%20Podcast%20Folge%2021%20-%20Das%20Vieh%20mit%20Maske.mp3" type="audio/mpeg" length="169366607" />
 			<pubDate>Fri, 21 Jul 2023 00:01:00 +0100</pubDate>
 			<itunes:author>Yves Mertig und Max Richter</itunes:author>
@@ -416,6 +416,23 @@
 			<itunes:explicit>yes</itunes:explicit>
 			<guid isPermaLink="false">
 			https://archive.org/download/lrparkett-podcast-folge-21-das-vieh-mit-maske/LRParkett%20Podcast%20Folge%2021%20-%20Das%20Vieh%20mit%20Maske.mp3
+			</guid>
+		</item>
+
+    <item>
+			<title>Folge 22 - Traumkapitän</title>
+			<description>Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
+			Auch heute wieder begrüßen wir einen neuen Gast bei uns im Podcast, wieder mit einem Animationsfilm. Kathi hat einen liebevollen und sehr aufregenden Kindefilm mitgebracht, Little Nemo - Abenteuer im Schlummerland.
+			Der kleine Nemo wird zum Prinzen von Schlummerland gekrönt und muss seine Freunde vor dem Alptraumkönig retten.
+			Also hört gebannt, seid gespannt und macht es euch bequem.
+			Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Letzten Reihe Parkett. Viel Spaß :)</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-22-traumkapitan_202308/LRParkett%20Podcast%20Folge%2022%20-%20Traumkapit%C3%A4n.mp3" type="audio/mpeg" length="168368737" />
+			<pubDate>Fri, 04 Aug 2023 00:01:00 +0100</pubDate>
+			<itunes:author>Yves Mertig und Katharina Krüger</itunes:author>
+			<itunes:duration>01:10:09</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-22-traumkapitan_202308/LRParkett%20Podcast%20Folge%2022%20-%20Traumkapit%C3%A4n.mp3
 			</guid>
 		</item>
 
