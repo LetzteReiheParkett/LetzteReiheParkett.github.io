@@ -436,5 +436,21 @@
 			</guid>
 		</item>
 
+    <item>
+			<title>Folge 23 - Sommerloch</title>
+			<description>Hallo und herzlich Willkommen liebe Gäste in der Letzten Reihe Parkett.
+			Die liebe Thea macht ihr Podcast Debüt und hat das kleine und sensible Meisterwerk Aftersun mitgebracht. Ein Drama über die Vater-Tochter-Konstellation zwischen Callum und Sophie, die ihren letzten gemeinsamen Urlaub miteinander verbringen. 
+			Also hört gebannt, seid gespannt und macht es euch bequem.
+			Plätze haben wir euch natürlich wieder reserviert, selbverständlich in der Letzten Reihe Parkett. Viel Spaß :)</description>
+			<enclosure url="https://archive.org/download/lrparkett-podcast-folge-23-sommerloch/LRParkett%20Podcast%20Folge%2023%20-%20Sommerloch.mp3" type="audio/mpeg" length="174442701" />
+			<pubDate>Fri, 04 Aug 2023 00:01:00 +0100</pubDate>
+			<itunes:author>Yves Mertig und Thea Schreiber</itunes:author>
+			<itunes:duration>01:12:41</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<guid isPermaLink="false">
+			https://archive.org/download/lrparkett-podcast-folge-23-sommerloch/LRParkett%20Podcast%20Folge%2023%20-%20Sommerloch.mp3
+			</guid>
+		</item>
+
 	</channel>
 </rss>
