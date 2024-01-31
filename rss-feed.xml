@@ -12,10 +12,10 @@
 		<title>Letzte Reihe Parkett</title>
 		<link>https://letztereiheparkett.github.io</link>
 		<language>de-DE</language>
-		<description>Filmpodcast</description>
-            <itunes:subtitle><p>Filmpodcast</p>
+		<description><p>Filmpodcast</p>
 			<p><a href="https://letztereiheparkett.github.io/">Besucht uns auf unserer Homepage.</a></p>
-			<p><a href="https://www.instagram.com/letztereiheparkett">Besucht uns auf unserer Instagram Seite.</a></p></itunes:subtitle>
+			<p><a href="https://www.instagram.com/letztereiheparkett">Besucht uns auf unserer Instagram Seite.</a></p></description>
+            <itunes:subtitle>Filmpodcast</itunes:subtitle>
 		<itunes:summary>
 		Der Podcast zu Filmen und mehr.
 		</itunes:summary>
